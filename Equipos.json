@@ -1,0 +1,42 @@
+[
+    {
+        "idEquipo": "E01",
+        "nombre": "Tigres",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E02",
+        "nombre": "Leones",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E03",
+        "nombre": "Halcones",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E04",
+        "nombre": "Águilas",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E05",
+        "nombre": "Lobos",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E06",
+        "nombre": "Toros",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E07",
+        "nombre": "Pumas",
+        "puntos": 0
+    },
+    {
+        "idEquipo": "E08",
+        "nombre": "Panteras",
+        "puntos": 0
+    }
+]

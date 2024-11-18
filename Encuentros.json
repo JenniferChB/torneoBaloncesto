@@ -1,0 +1,80 @@
+[
+    {
+      "idEncuentro": "EN01",
+      "fase": "Cuartos de Final",
+      "fecha": "2024-11-20",
+      "lugar": "Coliseo A",
+      "equipoLocal": "E01",
+      "equipoVisitante": "E02",
+      "marcador": { "local": 80, "visitante": 75 },
+      "idArbitro": "A01",
+      "resultado": "Victoria Local"
+    },
+    {
+      "idEncuentro": "EN02",
+      "fase": "Cuartos de Final",
+      "fecha": "2024-11-20",
+      "lugar": "Coliseo B",
+      "equipoLocal": "E03",
+      "equipoVisitante": "E04",
+      "marcador": { "local": 68, "visitante": 72 },
+      "idArbitro": "A02",
+      "resultado": "Victoria Visitante"
+    },
+    {
+      "idEncuentro": "EN03",
+      "fase": "Cuartos de Final",
+      "fecha": "2024-11-21",
+      "lugar": "Coliseo A",
+      "equipoLocal": "E05",
+      "equipoVisitante": "E06",
+      "marcador": { "local": 90, "visitante": 85 },
+      "idArbitro": "A03",
+      "resultado": "Victoria Local"
+    },
+    {
+      "idEncuentro": "EN04",
+      "fase": "Cuartos de Final",
+      "fecha": "2024-11-21",
+      "lugar": "Coliseo B",
+      "equipoLocal": "E07",
+      "equipoVisitante": "E08",
+      "marcador": { "local": 77, "visitante": 82 },
+      "idArbitro": "A04",
+      "resultado": "Victoria Visitante"
+    },
+    {
+      "idEncuentro": "EN05",
+      "fase": "Semifinales",
+      "fecha": "2024-11-23",
+      "lugar": "Coliseo A",
+      "equipoLocal": "E01",
+      "equipoVisitante": "E04",
+      "marcador": { "local": 85, "visitante": 78 },
+      "idArbitro": "A05",
+      "resultado": "Victoria Local"
+    },
+    {
+      "idEncuentro": "EN06",
+      "fase": "Semifinales",
+      "fecha": "2024-11-23",
+      "lugar": "Coliseo B",
+      "equipoLocal": "E05",
+      "equipoVisitante": "E08",
+      "marcador": { "local": 80, "visitante": 83 },
+      "idArbitro": "A06",
+      "resultado": "Victoria Visitante"
+    },
+    {
+      "idEncuentro": "EN07",
+      "fase": "Final",
+      "fecha": "2024-11-25",
+      "lugar": "Coliseo Central",
+      "equipoLocal": "E01",
+      "equipoVisitante": "E08",
+      "marcador": { "local": 95, "visitante": 100 },
+      "idArbitro": "A07",
+      "resultado": "Victoria Visitante"
+    }
+  ]
+  

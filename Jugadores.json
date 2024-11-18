@@ -1,0 +1,282 @@
+[
+    {
+        "idJugador": "J01",
+        "nombre": "Juan Moreno",
+        "edad": 25,
+        "idEquipo": "E01",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J02",
+        "nombre": "Carlos Rivera",
+        "edad": 27,
+        "idEquipo": "E01",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J03",
+        "nombre": "David Torres",
+        "edad": 24,
+        "idEquipo": "E01",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J04",
+        "nombre": "Andrés Silva",
+        "edad": 30,
+        "idEquipo": "E01",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J05",
+        "nombre": "Miguel Sánchez",
+        "edad": 22,
+        "idEquipo": "E01",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J06",
+        "nombre": "Luis Vargas",
+        "edad": 28,
+        "idEquipo": "E02",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J07",
+        "nombre": "Daniel Rojas",
+        "edad": 26,
+        "idEquipo": "E02",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J08",
+        "nombre": "Sebastián Pérez",
+        "edad": 23,
+        "idEquipo": "E02",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J09",
+        "nombre": "Alejandro Gómez",
+        "edad": 29,
+        "idEquipo": "E02",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J10",
+        "nombre": "Diego Castro",
+        "edad": 24,
+        "idEquipo": "E02",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J11",
+        "nombre": "Camilo Ruiz",
+        "edad": 21,
+        "idEquipo": "E03",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J12",
+        "nombre": "Felipe Martínez",
+        "edad": 30,
+        "idEquipo": "E03",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J13",
+        "nombre": "Roberto Vega",
+        "edad": 22,
+        "idEquipo": "E03",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J14",
+        "nombre": "Julio Morales",
+        "edad": 25,
+        "idEquipo": "E03",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J15",
+        "nombre": "Esteban Ortiz",
+        "edad": 27,
+        "idEquipo": "E03",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J18",
+        "nombre": "José Rodríguez",
+        "edad": 28,
+        "idEquipo": "E04",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J19",
+        "nombre": "Cristian López",
+        "edad": 29,
+        "idEquipo": "E04",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J20",
+        "nombre": "Manuel Herrera",
+        "edad": 22,
+        "idEquipo": "E04",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J21",
+        "nombre": "Pedro Guerrero",
+        "edad": 30,
+        "idEquipo": "E04",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J22",
+        "nombre": "Julián Vargas",
+        "edad": 25,
+        "idEquipo": "E04",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J23",
+        "nombre": "Santiago Ospina",
+        "edad": 26,
+        "idEquipo": "E05",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J24",
+        "nombre": "Héctor Gómez",
+        "edad": 24,
+        "idEquipo": "E05",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J25",
+        "nombre": "Óscar Trujillo",
+        "edad": 31,
+        "idEquipo": "E05",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J26",
+        "nombre": "Jorge Ramírez",
+        "edad": 28,
+        "idEquipo": "E05",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J27",
+        "nombre": "Iván Castillo",
+        "edad": 27,
+        "idEquipo": "E05",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J28",
+        "nombre": "Sebastián Montoya",
+        "edad": 22,
+        "idEquipo": "E06",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J29",
+        "nombre": "Tomás Ruiz",
+        "edad": 24,
+        "idEquipo": "E06",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J30",
+        "nombre": "Pablo Vargas",
+        "edad": 30,
+        "idEquipo": "E06",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J31",
+        "nombre": "Ramiro Gutiérrez",
+        "edad": 32,
+        "idEquipo": "E06",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J32",
+        "nombre": "Martín Cárdenas",
+        "edad": 23,
+        "idEquipo": "E06",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J33",
+        "nombre": "Javier Díaz",
+        "edad": 25,
+        "idEquipo": "E07",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J34",
+        "nombre": "Mario Medina",
+        "edad": 29,
+        "idEquipo": "E07",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J35",
+        "nombre": "Gustavo Prieto",
+        "edad": 31,
+        "idEquipo": "E07",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J36",
+        "nombre": "Felipe Lozano",
+        "edad": 24,
+        "idEquipo": "E07",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J37",
+        "nombre": "Samuel Castaño",
+        "edad": 27,
+        "idEquipo": "E07",
+        "posicion": "Pívot"
+    },
+    {
+        "idJugador": "J38",
+        "nombre": "Luis Ángel Ortiz",
+        "edad": 28,
+        "idEquipo": "E08",
+        "posicion": "Base"
+    },
+    {
+        "idJugador": "J39",
+        "nombre": "Esteban Ramírez",
+        "edad": 29,
+        "idEquipo": "E08",
+        "posicion": "Escolta"
+    },
+    {
+        "idJugador": "J40",
+        "nombre": "Ángel López",
+        "edad": 26,
+        "idEquipo": "E08",
+        "posicion": "Alero"
+    },
+    {
+        "idJugador": "J41",
+        "nombre": "Francisco Cortés",
+        "edad": 27,
+        "idEquipo": "E08",
+        "posicion": "Ala-Pívot"
+    },
+    {
+        "idJugador": "J42",
+        "nombre": "Raúl Mendoza",
+        "edad": 25,
+        "idEquipo": "E08",
+        "posicion": "Pívot"
+    }
+]

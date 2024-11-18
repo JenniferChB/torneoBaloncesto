@@ -1,0 +1,37 @@
+[
+    {
+        "idArbitro": "A01",
+        "nombre": "Carlos Méndez",
+        "idEncuentro": "EN01"
+    },
+    {
+        "idArbitro": "A02",
+        "nombre": "Luis Sánchez",
+        "idEncuentro": "EN02"
+    },
+    {
+        "idArbitro": "A03",
+        "nombre": "David Pérez",
+        "idEncuentro": "EN03"
+    },
+    {
+        "idArbitro": "A04",
+        "nombre": "José Gómez",
+        "idEncuentro": "EN04"
+    },
+    {
+        "idArbitro": "A05",
+        "nombre": "Fernando Rodríguez",
+        "idEncuentro": "EN05"
+    },
+    {
+        "idArbitro": "A06",
+        "nombre": "Ricardo Fernández",
+        "idEncuentro": "EN06"
+    },
+    {
+        "idArbitro": "A07",
+        "nombre": "Martín López",
+        "idEncuentro": "EN07"
+    }
+]

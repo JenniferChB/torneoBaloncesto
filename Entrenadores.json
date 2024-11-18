@@ -1,0 +1,50 @@
+[
+  {
+    "idEntrenador": "ENT01",
+    "nombre": "José Rojas",
+    "edad": 40,
+    "equipo": "E01"
+  },
+  {
+    "idEntrenador": "ENT02",
+    "nombre": "Laura Mejía",
+    "edad": 35,
+    "equipo": "E02"
+  },
+  {
+    "idEntrenador": "ENT03",
+    "nombre": "Ricardo Díaz",
+    "edad": 42,
+    "equipo": "E03"
+  },
+  {
+    "idEntrenador": "ENT04",
+    "nombre": "Camila Hernández",
+    "edad": 37,
+    "equipo": "E04"
+  },
+  {
+    "idEntrenador": "ENT05",
+    "nombre": "Fernando Castillo",
+    "edad": 41,
+    "equipo": "E05"
+  },
+  {
+    "idEntrenador": "ENT06",
+    "nombre": "Patricia Sánchez",
+    "edad": 39,
+    "equipo": "E06"
+  },
+  {
+    "idEntrenador": "ENT07",
+    "nombre": "Andrés Gutiérrez",
+    "edad": 34,
+    "equipo": "E07"
+  },
+  {
+    "idEntrenador": "ENT08",
+    "nombre": "Marta López",
+    "edad": 36,
+    "equipo": "E08"
+  }
+]

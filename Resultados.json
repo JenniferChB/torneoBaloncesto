@@ -1,0 +1,53 @@
+[
+    {
+      "idResultado": "R01",
+      "idEncuentro": "EN01",
+      "equipoLocal": { "idEquipo": "E01", "puntosObtenidos": 3 },
+      "equipoVisitante": { "idEquipo": "E02", "puntosObtenidos": 0 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R02",
+      "idEncuentro": "EN02",
+      "equipoLocal": { "idEquipo": "E03", "puntosObtenidos": 0 },
+      "equipoVisitante": { "idEquipo": "E04", "puntosObtenidos": 3 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R03",
+      "idEncuentro": "EN03",
+      "equipoLocal": { "idEquipo": "E05", "puntosObtenidos": 3 },
+      "equipoVisitante": { "idEquipo": "E06", "puntosObtenidos": 0 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R04",
+      "idEncuentro": "EN04",
+      "equipoLocal": { "idEquipo": "E07", "puntosObtenidos": 0 },
+      "equipoVisitante": { "idEquipo": "E08", "puntosObtenidos": 3 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R05",
+      "idEncuentro": "EN05",
+      "equipoLocal": { "idEquipo": "E01", "puntosObtenidos": 3 },
+      "equipoVisitante": { "idEquipo": "E04", "puntosObtenidos": 0 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R06",
+      "idEncuentro": "EN06",
+      "equipoLocal": { "idEquipo": "E05", "puntosObtenidos": 0 },
+      "equipoVisitante": { "idEquipo": "E08", "puntosObtenidos": 3 },
+      "estado": "Finalizado"
+    },
+    {
+      "idResultado": "R07",
+      "idEncuentro": "EN07",
+      "equipoLocal": { "idEquipo": "E01", "puntosObtenidos": 0 },
+      "equipoVisitante": { "idEquipo": "E08", "puntosObtenidos": 3 },
+      "estado": "Finalizado"
+    }
+    
+  ]
+  
